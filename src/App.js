@@ -11,7 +11,6 @@ function App() {
         <h1 className="App-name">Weather App</h1>
         <Weather />
         <br />
-        <footer></footer>
       </header>
     </div>
   );
